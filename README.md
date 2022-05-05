@@ -34,4 +34,4 @@
 
 
 <h3>Deployed Link: <a href="https://shoppersdemo.netlify.app/" style="text-decoration:none" target="_blank">ShoppersStop</a></h3>
-<img style="width: 1000px; height: 400px;" src="https://camo.githubusercontent.com/df62234e510cc4b0001ff822c005f81de34aa421f2a52111d4c187a24eb372a7/68747470733a2f2f7777772e62696e672e636f6d2f696d616765732f626c6f623f626369643d53344b68616f576f465273455841"/>
+<img src="https://camo.githubusercontent.com/df62234e510cc4b0001ff822c005f81de34aa421f2a52111d4c187a24eb372a7/68747470733a2f2f7777772e62696e672e636f6d2f696d616765732f626c6f623f626369643d53344b68616f576f465273455841"/>
